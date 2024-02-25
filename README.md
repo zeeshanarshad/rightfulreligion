@@ -1,7 +1,5 @@
 # RightfulReligion.com
 
-If you are interested in finding truth of religion Islam by comparing it with all other religions without relying on religious books then this is the perfect website to help you figure it out forever. This website consist of four major sections:
-
 In 2009, this website was launched as a blog based on research work of Neutral Muslim Scholar and Spiritual Doctor of Incurable Diseases, Moulana Abrar Alam Pakistani to prove there is no God except Allah, Prophet Muhammad (ﷺ) is the last messenger, Quran is the final Holy Book and Islam is the only true religion.
 
 Time to time, this website has been upgraded and much of his research work has been summarized into well organized proper sections and also published in various formats, such as: e-books, e-courses, blog posts, etc.
