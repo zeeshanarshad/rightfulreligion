@@ -17,6 +17,12 @@ https://templatemo.com/tm-581-kind-heart-charity
     font-display: swap;
 }
 
+  /* My Urdu Style */
+@font-face {
+	font-family: mBILALmNastaleeq;
+	src: url('fonts/mehr-nastaliq.ttf?ver=1.0') format('truetype');
+}
+
 @font-face {
     font-family: 'Metropolis';
     src: url('../fonts/Metropolis/Metropolis-Light.woff2') format('woff2'),
@@ -43,6 +49,14 @@ https://templatemo.com/tm-581-kind-heart-charity
     font-style: normal;
     font-display: swap;
 }
+
+.urdu {
+	font-family: Jameel Noori Nastaleeq, mBILALmNastaleeq, Tahoma, Arial;
+	font-size: 20px;
+	line-height: 40px;
+	direction: rtl;
+}
+
 
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
