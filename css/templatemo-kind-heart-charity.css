@@ -1,13 +1,9 @@
 /*
-
 TemplateMo 581 Kind Heart Charity
-
 https://templatemo.com/tm-581-kind-heart-charity
-
 */
 
-
-
+/*
 @font-face {
     font-family: 'Metropolis';
     src: url('../fonts/Metropolis/Metropolis-Regular.woff2') format('woff2'),
@@ -16,39 +12,15 @@ https://templatemo.com/tm-581-kind-heart-charity
     font-style: normal;
     font-display: swap;
 }
+*/
 
   /* My Urdu Style */
 @font-face {
 	font-family: mBILALmNastaleeq;
 	src: url('fonts/mehr-nastaliq.ttf?ver=1.0') format('truetype');
 }
+ 
 
-@font-face {
-    font-family: 'Metropolis';
-    src: url('../fonts/Metropolis/Metropolis-Light.woff2') format('woff2'),
-        url('../fonts/Metropolis/Metropolis-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Metropolis';
-    src: url('../fonts/Metropolis/Metropolis-SemiBold.woff2') format('woff2'),
-        url('../fonts/Metropolis/Metropolis-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Metropolis';
-    src: url('../fonts/Metropolis/Metropolis-Bold.woff2') format('woff2'),
-        url('../fonts/Metropolis/Metropolis-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
 
 .urdu {
 	font-family: Jameel Noori Nastaleeq, mBILALmNastaleeq, Tahoma, Arial;
@@ -73,7 +45,10 @@ https://templatemo.com/tm-581-kind-heart-charity
   --p-color:                      #717275;
   --border-color:                 #e9eaeb;
 
-  --body-font-family:             'Metropolis', sans-serif;
+/*  --body-font-family:             'Metropolis', sans-serif; */
+
+	--body-font-family: 'Work Sans', sans-serif;
+
 
   --h1-font-size:                 52px;
   --h2-font-size:                 46px;
