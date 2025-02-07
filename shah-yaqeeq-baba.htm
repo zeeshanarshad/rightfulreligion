@@ -32,7 +32,7 @@
 		  <ul class="navbar-nav ms-auto">
 			<li><a class="nav-link" href="miracles.htm">Miracles of Allah</a></li>
 			<li><a class="nav-link" href="world-peace-formula.htm">World Peace Formula</a></li>
-			<li><a class="nav-link" href="hajra-rohani-ilaj-center.htm">Spiritual Hospital</a></li>
+			<li><a class="nav-link" href="hajra-rohani-ilaj-center.htm">Services</a></li>
 			<li><a class="nav-link" href="shop.htm">Shop</a></li>
 		  </ul>
 		</div>
@@ -92,12 +92,17 @@
 		  </div>
 	</div>
 </div>	
-
+	
 	
 <div class="container">
 		<div class="row">
 		  <div class="col-md-12 entry-content">
-			<h2 class="mb-5 shadow-sm p-3 mb-5 bg-body rounded" id="#media">Media Reports</h2>
+			<h2 class="mb-5 shadow-sm p-3 mb-5 bg-body rounded" id="#media">Official Media Reports</h2>
+			  
+		    <p>Reports from Pakistan's official TV channels, media, BBC Urdu News, Umat Newspaper and other sources, including the Government of Pakistan, regarding Shah Yaqeeq Baba.</p>
+			  <p class="urdu">شاہ یقیق بابا کے حوالے سے پاکستان کے آفیشل ٹی وی چینلز میڈیا کی رپورٹس، بی بی سی اردو نیوز، امت اخبار اور دیگر ذرائع حکومت پاکستان سمیت</p>
+			  <div class="row mt-5" id="media-videos"></div>
+			  
             <p><a href="https://player.vimeo.com/video/15149981">Samaa News: Exclusive Report</a> - Witness the miraculous healing of incurable patients by the Soul of Shah Yaqeeq Baba in this exclusive report by Samaa News.</p>
             <p><a href="https://www.youtube.com/embed/vsQvf6WbCWU">Geo News: Report by Dr. Nadeem</a> - Dr. Nadeem reports on the incredible healing powers of the Soul of Shah Yaqeeq Baba in this eye-opening segment on Geo New</p>
             <p><a href="https://player.vimeo.com/video/71531951">CNBC News: Kuch To Hai (2nd March, 2013)</a> - Discover the miraculous healing powers of Shah Yaqeeq Baba's Soul in this episode of &quot;Kuch To Hai&quot; on CNBC News.</p>
@@ -112,8 +117,158 @@
             <p>In March 2017, <a href="https://www.pakistanpoint.com/amp/en/story/110984/sindh-chief-minister-orders-security-audit-of-most-vist.html">Pakistan Point News</a> reported that the Sindh Chief Minister had ordered a security audit of the most visited shrines in the province, including the Shrine of Hazrat Shah Aqeeq.</p>
  	      </div>
 	</div>
-</div>	
+	
+  <div class="row mt-5" id="media-reports"></div>
+	<script>
+	  // Array of video codes and URLs
+	  var videos = [
+		{ code: "qnVoVGwcbZ4", url: "https://www.youtube.com/watch?v=qnVoVGwcbZ4" },
+		{ code: "vsQvf6WbCWU", url: "https://www.youtube.com/watch?v=vsQvf6WbCWU" },
+		{ code: "SQFs7Bf20i8", url: "https://www.youtube.com/watch?v=SQFs7Bf20i8" },
+		{ code: "xdz7_yuzoiA", url: "https://www.youtube.com/watch?v=xdz7_yuzoiA" },
+		{ code: "i2lXRw9XdnA", url: "https://www.youtube.com/watch?v=i2lXRw9XdnA" },
+		{ code: "g8P-6bqI4EM", url: "https://www.youtube.com/watch?v=g8P-6bqI4EM" },
+	  ];
 
+	  // Reference to the row element where the video thumbnails will be placed
+	  var rowElement = document.getElementById('media-reports');
+
+	  // Loop to create and append columns for each video
+	  videos.forEach(video => {
+		// Create a column for each video
+		var colDiv = document.createElement('div');
+		colDiv.className = 'col-12 col-md-4 mb-4';
+
+		// Create a link for the video
+		var link = document.createElement('a');
+		link.href = video.url;
+		link.className = 'd-block';
+		link.target = '_blank';
+
+		// Create an image thumbnail for the video
+		var img = document.createElement('img');
+		img.src = 'https://img.youtube.com/vi/' + video.code + '/0.jpg'; // YouTube thumbnail image
+		img.alt = 'Video Thumbnail';
+		img.className = 'img-fluid rounded shadow-sm hover-effect';
+
+		// Append image to link, then append link to column
+		link.appendChild(img);
+		colDiv.appendChild(link);
+
+		// Append column to the row
+		rowElement.appendChild(colDiv);
+	  });
+	</script> 	
+	
+</div>	
+	
+	
+<div class="container my-4">
+  <h2>Our  Videos</h2>
+  <p>Our official videos regarding Shah Yaqeeq Baba.</p>
+  <p class="urdu">شاہ یقیق بابا کے حوالے سے ہماری آفیشل ویڈیوز</p>
+  <div class="row mt-5" id="official-videos"></div>
+</div>
+
+<script>
+  // Array of video codes and URLs
+  var videos = [
+	{ code: "Fubk6cG2S3Q", url: "https://www.youtube.com/watch?v=Fubk6cG2S3Q" },
+	{ code: "r9El97ME23k", url: "https://www.youtube.com/watch?v=r9El97ME23k" },
+	{ code: "7u2T0vk37dI", url: "https://www.youtube.com/watch?v=7u2T0vk37dI" },
+	{ code: "FioIWp499u0", url: "https://www.youtube.com/watch?v=FioIWp499u0" },
+	{ code: "e42DOXa5dIs", url: "https://www.youtube.com/watch?v=e42DOXa5dIs" },
+	{ code: "0bq3VF6xRR8", url: "https://www.youtube.com/watch?v=0bq3VF6xRR8" },
+	{ code: "B0_zMvPd1qA", url: "https://www.youtube.com/watch?v=B0_zMvPd1qA" },
+	{ code: "ALr3LiySqr0", url: "https://www.youtube.com/watch?v=ALr3LiySqr0" },
+	{ code: "5JdBKH-DeDo", url: "https://www.youtube.com/watch?v=5JdBKH-DeDo" },
+	{ code: "__gYHXwJ_L4", url: "https://www.youtube.com/watch?v=__gYHXwJ_L4" },
+	{ code: "hE1z-S1n5to", url: "https://www.youtube.com/watch?v=hE1z-S1n5to" },
+  ];
+
+  // Reference to the row element where the video thumbnails will be placed
+  var rowElement = document.getElementById('official-videos');
+
+  // Loop to create and append columns for each video
+  videos.forEach(video => {
+	// Create a column for each video
+	var colDiv = document.createElement('div');
+	colDiv.className = 'col-12 col-md-4 mb-4';
+
+	// Create a link for the video
+	var link = document.createElement('a');
+	link.href = video.url;
+	link.className = 'd-block';
+	link.target = '_blank';
+
+	// Create an image thumbnail for the video
+	var img = document.createElement('img');
+	img.src = 'https://img.youtube.com/vi/' + video.code + '/0.jpg'; // YouTube thumbnail image
+	img.alt = 'Video Thumbnail';
+	img.className = 'img-fluid rounded shadow-sm hover-effect';
+
+	// Append image to link, then append link to column
+	link.appendChild(img);
+	colDiv.appendChild(link);
+
+	// Append column to the row
+	rowElement.appendChild(colDiv);
+  });
+</script> 		
+	
+
+	
+
+
+<div class="container my-4">
+  <h2>Public Videos</h2>
+  <p>The public's reaction, feedback, vlogs, and other materials regarding Shah Yaqeeq Baba prove that indeed, incurable patients visit this shrine for their treatment, and under the command and permission of Allah, the Soul of Shah Yaqeeq Baba performs spiritual treatment and spiritual operations of iuncurable patients.</p>
+  <p class="urdu">شاہ یقیق بابا کے حوالے سے عام عوام کا رد عمل، فیڈ بیک، وی لاگ اور دیگر مواد  یہ بات ثابت کرتا ہے کہ واقعی اس مزار پر لاعلاج مریض اپنے علاج کے لیے تشریف لے جاتے ہیں اور اللہ کے حکم اور اجازت کے تحت شاہ یقیق بابا کی روح ان مریضوں کا روحانی علاج اور روحانی آپریشن کرتی ہے۔ </p>
+  <div class="row mt-5" id="public-reports"></div>
+</div>
+
+<script>
+  // Array of video codes and URLs
+  var videos = [
+	{ code: "fxI_YNSxYwY", url: "https://www.youtube.com/watch?v=fxI_YNSxYwY" },
+	{ code: "3CP4-XlFaPc", url: "https://www.youtube.com/watch?v=3CP4-XlFaPc" },
+	{ code: "JdiM3MvT0iQ", url: "https://www.youtube.com/watch?v=JdiM3MvT0iQ" },
+	{ code: "S3I9I274C18", url: "https://www.youtube.com/watch?v=S3I9I274C18" },
+	{ code: "HmRQm8fnewA", url: "https://www.youtube.com/watch?v=HmRQm8fnewA" },
+	  
+	  
+  ];
+
+  // Reference to the row element where the video thumbnails will be placed
+  var rowElement = document.getElementById('public-reports');
+
+  // Loop to create and append columns for each video
+  videos.forEach(video => {
+	// Create a column for each video
+	var colDiv = document.createElement('div');
+	colDiv.className = 'col-12 col-md-4 mb-4';
+
+	// Create a link for the video
+	var link = document.createElement('a');
+	link.href = video.url;
+	link.className = 'd-block';
+	link.target = '_blank';
+
+	// Create an image thumbnail for the video
+	var img = document.createElement('img');
+	img.src = 'https://img.youtube.com/vi/' + video.code + '/0.jpg'; // YouTube thumbnail image
+	img.alt = 'Video Thumbnail';
+	img.className = 'img-fluid rounded shadow-sm hover-effect';
+
+	// Append image to link, then append link to column
+	link.appendChild(img);
+	colDiv.appendChild(link);
+
+	// Append column to the row
+	rowElement.appendChild(colDiv);
+  });
+</script> 	
+	
 	
 <div class="container">
 		<div class="row">
@@ -201,8 +356,6 @@ You may wonder why mainstream media outside of Pakistan do not widely report on 
                     Established Since 2009</p>
 				<p class="text-white" align="center">ALLAH (اللہ) is King, Creator & God of Nature<br>
 			    MUHAMMAD (ﷺ) is Prophet, Human and Servant of Allah</p>
-                  
-                  <p class="text-white">Developed &amp; Maintained by Zeeshan Arshad (Legendary Freelancer)</p>
                   
 				<p class="text-white" align="center">ٱللَّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ <br>
 				  ٱللَّٰهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ</p>
