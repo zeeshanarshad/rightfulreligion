@@ -31,3 +31,35 @@
   })(window.jQuery);
 
 
+document.addEventListener("DOMContentLoaded", function () {
+  // Add click event listeners to dropdown toggles
+  const dropdownToggles = document.querySelectorAll(".navbar .dropdown-toggle");
+
+  dropdownToggles.forEach((toggle) => {
+    toggle.addEventListener("click", function (e) {
+      e.preventDefault(); // Prevent default link behavior
+
+      const dropdownMenu = this.nextElementSibling;
+      const isOpen = dropdownMenu.classList.contains("show");
+
+      // Close all other dropdowns
+      document.querySelectorAll(".navbar .dropdown-menu").forEach((menu) => {
+        if (menu !== dropdownMenu) {
+          menu.classList.remove("show");
+        }
+      });
+
+      // Toggle the current dropdown
+      dropdownMenu.classList.toggle("show");
+    });
+  });
+
+  // Close dropdowns when clicking outside
+  document.addEventListener("click", function (e) {
+    if (!e.target.matches(".dropdown-toggle")) {
+      document.querySelectorAll(".navbar .dropdown-menu").forEach((menu) => {
+        menu.classList.remove("show");
+      });
+    }
+  });
+});
