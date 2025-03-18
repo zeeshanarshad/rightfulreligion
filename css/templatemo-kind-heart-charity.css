@@ -24,8 +24,15 @@ https://templatemo.com/tm-581-kind-heart-charity
 
 .urdu {
 	font-family: Jameel Noori Nastaleeq, mBILALmNastaleeq, Tahoma, Arial;
-	font-size: 20px;
-	line-height: 40px;
+	font-size: 150%;
+	line-height: 200%;
+	direction: rtl;
+}
+
+.urdu-headline {
+	font-family: Jameel Noori Nastaleeq, mBILALmNastaleeq, Tahoma, Arial;
+	font-size: 50px;
+	line-height: 200%;
 	direction: rtl;
 }
 
