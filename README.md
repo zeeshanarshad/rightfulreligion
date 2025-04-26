@@ -1,15 +1,6 @@
-# This website is dedicated to presenting the truth of Islam. Its purpose is to assist individuals in their search for the true religion by providing clear Signs of Allah.
-
-# How You Can Contribute:
-
-# Volunteering: If you find this project meaningful, feel free to contribute your time and skills. You can use the code from this website to create new sites or enhance existing ones.
-
-# Research and Translation: New research and translations are welcome. Please ensure that the original research by Moulana Abrar Alam Pakistani remains intact.
-
-# Permissions:
-
-# You can use our research without attribution.
-
-# Upgrades and enhancements are encouraged as long as they respect the original work.
-
-# Thank you for your support.
+# اس ویب سائٹ کا مقصد دین اسلام کی سچائی کو ناقابل شکست، پریکٹیکل، غیرجانبدار، قدرتی اور قابل مشاہدہ ثبوتوں کے ذریعہ ثابت کرنا ہے۔ یہ کام اللہ کے فضل سے مکمل ہوچکا ہے۔ اب ضرورت اس بات کی ہے کہ تمام مخلص مسلمان اس کام کو دنیا کی تمام مشہور زبانوں یا تمام زبانوں میں دنیا کے تمام غیرمسلموں تک پہنچانے پر کام کریں تاکہ غیرمسلموں کی اکثریت یا تمام غیرمسلم  اللہ کے حکم و مشیت و اجازت سے دین اسلام میں داخل ہوجائیں اور عالمی جنگوں کا خاتمہ ہو اور دنیا میں امن اور سکون قائم ہوسکے۔ 
+# اس مقصد کے حوالے سے مزید کوئی معلومات یا جانکاری کرنی ہو تو دین اسلام کے علمبردار مولانا ابرار عالم پاکستانی سےان کے واٹس ایپ نمبرز پر رابطہ کیا جاسکتا ہے۔تمام معلومات ویب سائٹ پر موجود ہے۔
+# اس مشن کے حوالے سے کوئی بھی تعاون کرنا ہو تو براہ راست مولانا ابرار عالم پاکستانی سے رابطہ کیا جائے۔یہ ویب سائٹ ان کے مقصد اور مشن کی عکاسی کرتی ہے، ان کے مضامین، ویڈیوز، ریسرچ اور دیگر مواد یہاں پر پبلش کیا جاتا ہے۔
+# الحمدللہ رب العالمین
+# اللہ واحد القہار کے فضل سے
+# تیار کردہ عالمی دعوتی ویب سائٹ
