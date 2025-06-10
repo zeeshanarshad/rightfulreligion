@@ -19,13 +19,13 @@ By the grace of **Allah Al-Wahid Al-Qahhar**, the foundational work is complete.
 
 You don’t need to be a developer — just sincere. Contributors from all skills are welcome:
 
-✅ Translators — Convert content into global languages
-✅ Writers — Refine and expand Islamic content with clarity and evidence
-✅ Designers — Create infographics that explain key concepts visually
-✅ Video Editors — Make short films or animations based on the research
-✅ SEO Experts — Help improve Google rankings and visibility
-✅ Web Developers — Improve layout, speed, and accessibility
-✅ General Contributors — Fix typos, report issues, suggest ideas
+- Translators — Convert content into global languages
+- Writers — Refine and expand Islamic content with clarity and evidence
+- Designers — Create infographics that explain key concepts visually
+- Video Editors — Make short films or animations based on the research
+- SEO Experts — Help improve Google rankings and visibility
+- Web Developers — Improve layout, speed, and accessibility
+- General Contributors — Fix typos, report issues, suggest ideas
 
 ### Steps to Contribute:
 1. Fork this repository
