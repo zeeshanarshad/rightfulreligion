@@ -1,4 +1,4 @@
-# 🌍 Rightful Religion — Global Dawah Through Natural Evidence
+# 🌍 Rightful Religion — Global Dawah Through Nature
 
 Welcome to the **official GitHub repository** for [www.rightfulreligion.com](https://www.rightfulreligion.com) — an open-source Islamic platform built to prove the truth of Islam through **practical, observable, natural, and logical evidence**.
 
@@ -10,20 +10,22 @@ By the grace of **Allah Al-Wahid Al-Qahhar**, the foundational work is complete.
 
 - Prove Islam through undeniable natural signs and rational evidence.
 - Invite non-Muslims globally with non-sectarian, observable truth.
-- Support world peace by calling to Islam through reason, not force.
+- Support world peace by calling to Islam through miracles, not force.
 - Spread this work in **all major languages** so that people worldwide can access the truth.
 
 ---
 
 ## 🤝 How You Can Contribute
 
-You don’t need to be a developer — just sincere.
+You don’t need to be a developer — just sincere. Contributors from all skills are welcome:
 
-✅ Translate the site into other languages  
-✅ Suggest content improvements or additions  
-✅ Report typos, errors, or issues  
-✅ Improve design, usability, or layout  
-✅ Submit Dawah material based on nature, logic, or Qur’an
+✅ Translators — Convert content into global languages
+✅ Writers — Refine and expand Islamic content with clarity and evidence
+✅ Designers — Create infographics that explain key concepts visually
+✅ Video Editors — Make short films or animations based on the research
+✅ SEO Experts — Help improve Google rankings and visibility
+✅ Web Developers — Improve layout, speed, and accessibility
+✅ General Contributors — Fix typos, report issues, suggest ideas
 
 ### Steps to Contribute:
 1. Fork this repository
