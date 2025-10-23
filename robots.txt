@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: 
+
+Allow: sitemap.xml
+
+Sitemap: https://rightfulreligion.com/sitemap_index.xml
+
+
+
+
